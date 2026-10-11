@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price
+PRD_01,Wireless Headphones,Electronics,250.00
+PRD_02,Mechanical Keyboard,Electronics,900.00
+PRD_03,Ergonomic Mouse,Electronics,60.00
+PRD_04,Cotton T-Shirt,Fashion,35.00
+PRD_05,Running Shoes,Footwear,480.00
+PRD_06,Stainless Steel Water Bottle,Home & Kitchen,160.00
+PRD_07,Smart Fitness Watch,Electronics,1450.00
+PRD_08,Ceramic Coffee Mug,Home & Kitchen,95.00
+PRD_09,Noise Cancelling Earbuds,Electronics,1800.00
+PRD_10,Slim Fit Denim Jeans,Fashion,320.00
+PRD_11,Water Resistant Backpack,Accessories,680.00
+PRD_12,Polarized Sunglasses,Accessories,220.00
+PRD_13,27-inch 4K Monitor,Electronics,2600.00
+PRD_14,Leather Wallet,Accessories,380.00
+PRD_15,Orthopedic Office Chair Cushion,Home & Office,950.00
+PRD_16,Yoga Mat with Alignment Lines,Fitness,260.00
+PRD_17,Adjustable Dumbbell Set,Fitness,1200.00
+PRD_18,LED Desk Lamp with Wireless Charger,Home & Office,510.00
+PRD_19,Canvas Casual Sneakers,Footwear,620.00
+PRD_20,USB-C Fast Charging Hub,Electronics,340.00
+PRD_21,Double Wall French Press,Home & Kitchen,430.00
+PRD_22,Microfiber Bed Sheet Set,Home & Living,550.00
+PRD_23,Breathable Gym Shorts,Fashion,190.00
+PRD_24,Compact Travel Umbrella,Accessories,140.00
+PRD_25,Portable Bluetooth Speaker,Electronics,720.00
+PRD_26,Hard Shell Carry-On Luggage,Travel,1850.00
+PRD_27,Stainless Steel Chef Knife,Home & Kitchen,310.00
+PRD_28,Resistance Bands Set,Fitness,150.00
+PRD_29,Non-Stick Frying Pan,Home & Kitchen,490.00
+PRD_30,Fleece Hooded Sweatshirt,Fashion,520.00
+PRD_31,Aluminum Laptop Stand,Home & Office,380.00
+PRD_32,Electric Kettle 1.5L,Appliances,650.00
+PRD_33,Memory Foam Pillow,Home & Living,420.00
+PRD_34,Braided Nylon Lightning Cable,Electronics,90.00
+PRD_35,Polarized Aviator Sunglasses,Accessories,280.00
+PRD_36,Stainless Steel Food Containers 3-Pack,Home & Kitchen,330.00
+PRD_37,Quick-Dry Microfiber Towel,Fitness,110.00
+PRD_38,Automatic Drip Coffee Maker,Appliances,1350.00
+PRD_39,Leather Formal Belt,Fashion,240.00
+PRD_40,Ergonomic Footrest,Home & Office,590.00
+PRD_41,Anti-Blue Light Computer Glasses,Accessories,180.00
+PRD_42,Waterproof Hiking Boots,Footwear,1650.00
+PRD_43,Cast Iron Skillet 10-Inch,Home & Kitchen,720.00
+PRD_44,Wireless Charging Pad 15W,Electronics,290.00
+PRD_45,Casual Linen Button-Down Shirt,Fashion,450.00
+PRD_46,Foam Roller for Muscle Recovery,Fitness,210.00
+PRD_47,Aroma Essential Oil Diffuser,Home & Living,390.00
+PRD_48,Heavy-Duty Extension Cord 5M,Home & Utility,175.00
+PRD_49,Smart LED Light Bulb RGB,Smart Home,230.00
+PRD_50,Cordless Handheld Vacuum,Appliances,1450.00

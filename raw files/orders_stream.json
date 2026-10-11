@@ -1,0 +1,518 @@
+[
+  {
+    "order_id": "ORD_8001",
+    "customer_id": "CUST_101",
+    "order_timestamp": "2026-10-01T10:14:00Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_01", "qty": 2, "unit_price": 450.00 },
+      { "product_id": "PRD_03", "qty": 1, "unit_price": 120.00 }
+    ],
+    "shipping_address": { "city": "Mumbai", "state": "MH", "pincode": "400001" }
+  },
+  {
+    "order_id": "ORD_8002",
+    "customer_id": "CUST_102",
+    "order_timestamp": "2026-10-01T11:05:30Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_02", "qty": 1, "unit_price": 1500.00 }
+    ],
+    "shipping_address": { "city": "Bengaluru", "state": "KA", "pincode": "560001" }
+  },
+  {
+    "order_id": "ORD_8003",
+    "customer_id": "CUST_103",
+    "order_timestamp": "2026-10-01T12:00:00Z",
+    "payment": { "method": "NET_BANKING", "status": "FAILED" },
+    "items": [
+      { "product_id": "PRD_01", "qty": 1, "unit_price": 450.00 }
+    ],
+    "shipping_address": { "city": "Delhi", "state": "DL", "pincode": "110001" }
+  },
+  {
+    "order_id": "ORD_8004",
+    "customer_id": "CUST_104",
+    "order_timestamp": "2026-10-02T09:30:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_04", "qty": 3, "unit_price": 80.00 }
+    ],
+    "shipping_address": { "city": "Pune", "state": "MH", "pincode": "411001" }
+  },
+  {
+    "order_id": "ORD_8005",
+    "customer_id": "CUST_105",
+    "order_timestamp": "2026-10-02T10:15:12Z",
+    "payment": { "method": "DEBIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_05", "qty": 1, "unit_price": 899.00 },
+      { "product_id": "PRD_02", "qty": 1, "unit_price": 1500.00 }
+    ],
+    "shipping_address": { "city": "Hyderabad", "state": "TG", "pincode": "500001" }
+  },
+  {
+    "order_id": "ORD_8006",
+    "customer_id": "CUST_106",
+    "order_timestamp": "2026-10-02T11:45:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_06", "qty": 2, "unit_price": 350.00 }
+    ],
+    "shipping_address": { "city": "Chennai", "state": "TN", "pincode": "600001" }
+  },
+  {
+    "order_id": "ORD_8007",
+    "customer_id": "CUST_107",
+    "order_timestamp": "2026-10-02T13:10:45Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_07", "qty": 1, "unit_price": 2499.00 }
+    ],
+    "shipping_address": { "city": "Kolkata", "state": "WB", "pincode": "700001" }
+  },
+  {
+    "order_id": "ORD_8008",
+    "customer_id": "CUST_108",
+    "order_timestamp": "2026-10-02T14:22:18Z",
+    "payment": { "method": "CASH_ON_DELIVERY", "status": "PENDING" },
+    "items": [
+      { "product_id": "PRD_01", "qty": 1, "unit_price": 450.00 },
+      { "product_id": "PRD_08", "qty": 2, "unit_price": 210.00 }
+    ],
+    "shipping_address": { "city": "Ahmedabad", "state": "GJ", "pincode": "380001" }
+  },
+  {
+    "order_id": "ORD_8009",
+    "customer_id": "CUST_109",
+    "order_timestamp": "2026-10-02T16:04:55Z",
+    "payment": { "method": "UPI", "status": "FAILED" },
+    "items": [
+      { "product_id": "PRD_03", "qty": 4, "unit_price": 120.00 }
+    ],
+    "shipping_address": { "city": "Jaipur", "state": "RJ", "pincode": "302001" }
+  },
+  {
+    "order_id": "ORD_8010",
+    "customer_id": "CUST_110",
+    "order_timestamp": "2026-10-02T17:50:30Z",
+    "payment": { "method": "NET_BANKING", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_09", "qty": 1, "unit_price": 3200.00 }
+    ],
+    "shipping_address": { "city": "Lucknow", "state": "UP", "pincode": "226001" }
+  },
+  {
+    "order_id": "ORD_8011",
+    "customer_id": "CUST_111",
+    "order_timestamp": "2026-10-03T08:15:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_10", "qty": 1, "unit_price": 650.00 },
+      { "product_id": "PRD_04", "qty": 2, "unit_price": 80.00 }
+    ],
+    "shipping_address": { "city": "Indore", "state": "MP", "pincode": "452001" }
+  },
+  {
+    "order_id": "ORD_8012",
+    "customer_id": "CUST_112",
+    "order_timestamp": "2026-10-03T09:40:22Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_02", "qty": 2, "unit_price": 1500.00 }
+    ],
+    "shipping_address": { "city": "Surat", "state": "GJ", "pincode": "395001" }
+  },
+  {
+    "order_id": "ORD_8013",
+    "customer_id": "CUST_113",
+    "order_timestamp": "2026-10-03T11:05:40Z",
+    "payment": { "method": "DEBIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_11", "qty": 1, "unit_price": 1250.00 }
+    ],
+    "shipping_address": { "city": "Nagpur", "state": "MH", "pincode": "440001" }
+  },
+  {
+    "order_id": "ORD_8014",
+    "customer_id": "CUST_114",
+    "order_timestamp": "2026-10-03T12:30:10Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_01", "qty": 3, "unit_price": 450.00 }
+    ],
+    "shipping_address": { "city": "Chandigarh", "state": "CH", "pincode": "160017" }
+  },
+  {
+    "order_id": "ORD_8015",
+    "customer_id": "CUST_115",
+    "order_timestamp": "2026-10-03T14:15:33Z",
+    "payment": { "method": "CASH_ON_DELIVERY", "status": "PENDING" },
+    "items": [
+      { "product_id": "PRD_12", "qty": 2, "unit_price": 490.00 },
+      { "product_id": "PRD_03", "qty": 1, "unit_price": 120.00 }
+    ],
+    "shipping_address": { "city": "Bhopal", "state": "MP", "pincode": "462001" }
+  },
+  {
+    "order_id": "ORD_8016",
+    "customer_id": "CUST_116",
+    "order_timestamp": "2026-10-03T15:55:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_07", "qty": 1, "unit_price": 2499.00 }
+    ],
+    "shipping_address": { "city": "Patna", "state": "BR", "pincode": "800001" }
+  },
+  {
+    "order_id": "ORD_8017",
+    "customer_id": "CUST_117",
+    "order_timestamp": "2026-10-03T17:10:45Z",
+    "payment": { "method": "CREDIT_CARD", "status": "FAILED" },
+    "items": [
+      { "product_id": "PRD_13", "qty": 1, "unit_price": 4100.00 }
+    ],
+    "shipping_address": { "city": "Kochi", "state": "KL", "pincode": "682001" }
+  },
+  {
+    "order_id": "ORD_8018",
+    "customer_id": "CUST_118",
+    "order_timestamp": "2026-10-03T18:40:12Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_08", "qty": 3, "unit_price": 210.00 }
+    ],
+    "shipping_address": { "city": "Visakhapatnam", "state": "AP", "pincode": "530001" }
+  },
+  {
+    "order_id": "ORD_8019",
+    "customer_id": "CUST_119",
+    "order_timestamp": "2026-10-03T20:05:00Z",
+    "payment": { "method": "NET_BANKING", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_05", "qty": 2, "unit_price": 899.00 }
+    ],
+    "shipping_address": { "city": "Coimbatore", "state": "TN", "pincode": "641001" }
+  },
+  {
+    "order_id": "ORD_8020",
+    "customer_id": "CUST_120",
+    "order_timestamp": "2026-10-04T07:30:15Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_04", "qty": 5, "unit_price": 80.00 }
+    ],
+    "shipping_address": { "city": "Vadodara", "state": "GJ", "pincode": "390001" }
+  },
+  {
+    "order_id": "ORD_8021",
+    "customer_id": "CUST_121",
+    "order_timestamp": "2026-10-04T09:00:20Z",
+    "payment": { "method": "DEBIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_14", "qty": 1, "unit_price": 750.00 },
+      { "product_id": "PRD_06", "qty": 1, "unit_price": 350.00 }
+    ],
+    "shipping_address": { "city": "Ludhiana", "state": "PB", "pincode": "141001" }
+  },
+  {
+    "order_id": "ORD_8022",
+    "customer_id": "CUST_122",
+    "order_timestamp": "2026-10-04T10:25:40Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_15", "qty": 1, "unit_price": 1800.00 }
+    ],
+    "shipping_address": { "city": "Agra", "state": "UP", "pincode": "282001" }
+  },
+  {
+    "order_id": "ORD_8023",
+    "customer_id": "CUST_123",
+    "order_timestamp": "2026-10-04T11:50:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_02", "qty": 1, "unit_price": 1500.00 },
+      { "product_id": "PRD_03", "qty": 2, "unit_price": 120.00 }
+    ],
+    "shipping_address": { "city": "Nashik", "state": "MH", "pincode": "422001" }
+  },
+  {
+    "order_id": "ORD_8024",
+    "customer_id": "CUST_124",
+    "order_timestamp": "2026-10-04T13:15:10Z",
+    "payment": { "method": "CASH_ON_DELIVERY", "status": "PENDING" },
+    "items": [
+      { "product_id": "PRD_01", "qty": 1, "unit_price": 450.00 }
+    ],
+    "shipping_address": { "city": "Varanasi", "state": "UP", "pincode": "221001" }
+  },
+  {
+    "order_id": "ORD_8025",
+    "customer_id": "CUST_125",
+    "order_timestamp": "2026-10-04T14:45:50Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_10", "qty": 2, "unit_price": 650.00 }
+    ],
+    "shipping_address": { "city": "Thane", "state": "MH", "pincode": "400601" }
+  },
+  {
+    "order_id": "ORD_8026",
+    "customer_id": "CUST_126",
+    "order_timestamp": "2026-10-04T16:10:30Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_09", "qty": 1, "unit_price": 3200.00 },
+      { "product_id": "PRD_12", "qty": 1, "unit_price": 490.00 }
+    ],
+    "shipping_address": { "city": "Meerut", "state": "UP", "pincode": "250001" }
+  },
+  {
+    "order_id": "ORD_8027",
+    "customer_id": "CUST_127",
+    "order_timestamp": "2026-10-04T17:35:15Z",
+    "payment": { "method": "NET_BANKING", "status": "FAILED" },
+    "items": [
+      { "product_id": "PRD_07", "qty": 1, "unit_price": 2499.00 }
+    ],
+    "shipping_address": { "city": "Rajkot", "state": "GJ", "pincode": "360001" }
+  },
+  {
+    "order_id": "ORD_8028",
+    "customer_id": "CUST_128",
+    "order_timestamp": "2026-10-04T19:00:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_11", "qty": 2, "unit_price": 1250.00 }
+    ],
+    "shipping_address": { "city": "Kalyan", "state": "MH", "pincode": "421301" }
+  },
+  {
+    "order_id": "ORD_8029",
+    "customer_id": "CUST_129",
+    "order_timestamp": "2026-10-05T08:20:10Z",
+    "payment": { "method": "DEBIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_04", "qty": 4, "unit_price": 80.00 },
+      { "product_id": "PRD_08", "qty": 1, "unit_price": 210.00 }
+    ],
+    "shipping_address": { "city": "Amritsar", "state": "PB", "pincode": "143001" }
+  },
+  {
+    "order_id": "ORD_8030",
+    "customer_id": "CUST_130",
+    "order_timestamp": "2026-10-05T09:45:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_05", "qty": 1, "unit_price": 899.00 }
+    ],
+    "shipping_address": { "city": "Allahabad", "state": "UP", "pincode": "211001" }
+  },
+  {
+    "order_id": "ORD_8031",
+    "customer_id": "CUST_131",
+    "order_timestamp": "2026-10-05T11:12:45Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_02", "qty": 1, "unit_price": 1500.00 }
+    ],
+    "shipping_address": { "city": "Ranchi", "state": "JH", "pincode": "834001" }
+  },
+  {
+    "order_id": "ORD_8032",
+    "customer_id": "CUST_132",
+    "order_timestamp": "2026-10-05T12:35:20Z",
+    "payment": { "method": "CASH_ON_DELIVERY", "status": "PENDING" },
+    "items": [
+      { "product_id": "PRD_06", "qty": 3, "unit_price": 350.00 }
+    ],
+    "shipping_address": { "city": "Howrah", "state": "WB", "pincode": "711101" }
+  },
+  {
+    "order_id": "ORD_8033",
+    "customer_id": "CUST_133",
+    "order_timestamp": "2026-10-05T14:00:15Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_13", "qty": 1, "unit_price": 4100.00 }
+    ],
+    "shipping_address": { "city": "Jabalpur", "state": "MP", "pincode": "482001" }
+  },
+  {
+    "order_id": "ORD_8034",
+    "customer_id": "CUST_134",
+    "order_timestamp": "2026-10-05T15:22:30Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_01", "qty": 1, "unit_price": 450.00 },
+      { "product_id": "PRD_14", "qty": 2, "unit_price": 750.00 }
+    ],
+    "shipping_address": { "city": "Gwalior", "state": "MP", "pincode": "474001" }
+  },
+  {
+    "order_id": "ORD_8035",
+    "customer_id": "CUST_135",
+    "order_timestamp": "2026-10-05T16:50:00Z",
+    "payment": { "method": "NET_BANKING", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_15", "qty": 1, "unit_price": 1800.00 }
+    ],
+    "shipping_address": { "city": "Vijayawada", "state": "AP", "pincode": "520001" }
+  },
+  {
+    "order_id": "ORD_8036",
+    "customer_id": "CUST_136",
+    "order_timestamp": "2026-10-05T18:15:40Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_03", "qty": 3, "unit_price": 120.00 },
+      { "product_id": "PRD_10", "qty": 1, "unit_price": 650.00 }
+    ],
+    "shipping_address": { "city": "Jodhpur", "state": "RJ", "pincode": "342001" }
+  },
+  {
+    "order_id": "ORD_8037",
+    "customer_id": "CUST_137",
+    "order_timestamp": "2026-10-06T08:45:10Z",
+    "payment": { "method": "UPI", "status": "FAILED" },
+    "items": [
+      { "product_id": "PRD_07", "qty": 2, "unit_price": 2499.00 }
+    ],
+    "shipping_address": { "city": "Madurai", "state": "TN", "pincode": "625001" }
+  },
+  {
+    "order_id": "ORD_8038",
+    "customer_id": "CUST_138",
+    "order_timestamp": "2026-10-06T10:10:00Z",
+    "payment": { "method": "DEBIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_12", "qty": 1, "unit_price": 490.00 }
+    ],
+    "shipping_address": { "city": "Raipur", "state": "CG", "pincode": "492001" }
+  },
+  {
+    "order_id": "ORD_8039",
+    "customer_id": "CUST_139",
+    "order_timestamp": "2026-10-06T11:30:25Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_04", "qty": 2, "unit_price": 80.00 },
+      { "product_id": "PRD_08", "qty": 2, "unit_price": 210.00 }
+    ],
+    "shipping_address": { "city": "Kota", "state": "RJ", "pincode": "324001" }
+  },
+  {
+    "order_id": "ORD_8040",
+    "customer_id": "CUST_140",
+    "order_timestamp": "2026-10-06T13:00:50Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_09", "qty": 1, "unit_price": 3200.00 }
+    ],
+    "shipping_address": { "city": "Guwahati", "state": "AS", "pincode": "781001" }
+  },
+  {
+    "order_id": "ORD_8041",
+    "customer_id": "CUST_141",
+    "order_timestamp": "2026-10-06T14:25:15Z",
+    "payment": { "method": "CASH_ON_DELIVERY", "status": "PENDING" },
+    "items": [
+      { "product_id": "PRD_05", "qty": 1, "unit_price": 899.00 }
+    ],
+    "shipping_address": { "city": "Chandigarh", "state": "CH", "pincode": "160022" }
+  },
+  {
+    "order_id": "ORD_8042",
+    "customer_id": "CUST_142",
+    "order_timestamp": "2026-10-06T15:50:30Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_02", "qty": 1, "unit_price": 1500.00 },
+      { "product_id": "PRD_06", "qty": 1, "unit_price": 350.00 }
+    ],
+    "shipping_address": { "city": "Solapur", "state": "MH", "pincode": "413001" }
+  },
+  {
+    "order_id": "ORD_8043",
+    "customer_id": "CUST_143",
+    "order_timestamp": "2026-10-06T17:15:00Z",
+    "payment": { "method": "NET_BANKING", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_11", "qty": 1, "unit_price": 1250.00 }
+    ],
+    "shipping_address": { "city": "Hubli", "state": "KA", "pincode": "580020" }
+  },
+  {
+    "order_id": "ORD_8044",
+    "customer_id": "CUST_144",
+    "order_timestamp": "2026-10-06T18:40:20Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_01", "qty": 2, "unit_price": 450.00 }
+    ],
+    "shipping_address": { "city": "Mysuru", "state": "KA", "pincode": "570001" }
+  },
+  {
+    "order_id": "ORD_8045",
+    "customer_id": "CUST_145",
+    "order_timestamp": "2026-10-07T08:30:10Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_13", "qty": 1, "unit_price": 4100.00 }
+    ],
+    "shipping_address": { "city": "Tiruchirappalli", "state": "TN", "pincode": "620001" }
+  },
+  {
+    "order_id": "ORD_8046",
+    "customer_id": "CUST_146",
+    "order_timestamp": "2026-10-07T10:05:45Z",
+    "payment": { "method": "DEBIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_03", "qty": 5, "unit_price": 120.00 }
+    ],
+    "shipping_address": { "city": "Bareilly", "state": "UP", "pincode": "243001" }
+  },
+  {
+    "order_id": "ORD_8047",
+    "customer_id": "CUST_147",
+    "order_timestamp": "2026-10-07T11:40:00Z",
+    "payment": { "method": "UPI", "status": "FAILED" },
+    "items": [
+      { "product_id": "PRD_14", "qty": 1, "unit_price": 750.00 }
+    ],
+    "shipping_address": { "city": "Aligarh", "state": "UP", "pincode": "202001" }
+  },
+  {
+    "order_id": "ORD_8048",
+    "customer_id": "CUST_148",
+    "order_timestamp": "2026-10-07T13:15:30Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_10", "qty": 1, "unit_price": 650.00 },
+      { "product_id": "PRD_15", "qty": 1, "unit_price": 1800.00 }
+    ],
+    "shipping_address": { "city": "Jalandhar", "state": "PB", "pincode": "144001" }
+  },
+  {
+    "order_id": "ORD_8049",
+    "customer_id": "CUST_149",
+    "order_timestamp": "2026-10-07T14:50:15Z",
+    "payment": { "method": "CREDIT_CARD", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_07", "qty": 1, "unit_price": 2499.00 }
+    ],
+    "shipping_address": { "city": "Bhubaneswar", "state": "OD", "pincode": "751001" }
+  },
+  {
+    "order_id": "ORD_8050",
+    "customer_id": "CUST_150",
+    "order_timestamp": "2026-10-07T16:20:00Z",
+    "payment": { "method": "UPI", "status": "SUCCESS" },
+    "items": [
+      { "product_id": "PRD_02", "qty": 1, "unit_price": 1500.00 },
+      { "product_id": "PRD_04", "qty": 2, "unit_price": 80.00 },
+      { "product_id": "PRD_08", "qty": 1, "unit_price": 210.00 }
+    ],
+    "shipping_address": { "city": "Salem", "state": "TN", "pincode": "636001" }
+  }
+]
